@@ -1,0 +1,6 @@
+This is just a text project.
+Trying to setup git on new linux machine.
+Checking git operations.
+
+Author: VPB
+
